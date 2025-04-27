@@ -11,7 +11,7 @@ Este é um projeto educacional em Python que permite visualizar graficamente os 
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/is-lm-simulator.git
+git clone https://github.com/nathaliatvrs/is-lm-simulator.git
 cd is-lm-simulator
 ```
 
